@@ -45,3 +45,6 @@
   color: #ff007d;
 }
 
+.icon-ins:before {
+  content: "\e64d";
+}
