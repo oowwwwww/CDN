@@ -17,6 +17,7 @@
 
 .icon-email:before {
   content: "\e725";
+  color: #d42da0;
 }
 
 .icon-23:before {
@@ -25,10 +26,12 @@
 
 .icon-wangyiyunyinle1:before {
   content: "\e650";
+  color: #ff5722;
 }
 
 .icon-Github:before {
   content: "\ea0b";
+  color: #2196f3;
 }
 
 .icon-ins1:before {
@@ -37,4 +40,5 @@
 
 .icon-ins:before {
   content: "\e64d";
+  color: #3f51b5;
 }
