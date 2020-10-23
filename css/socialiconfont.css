@@ -40,5 +40,6 @@
 }
 
 .icon-ins:before {
-  content: "\e64d";
+  content: "\e600";
+  color: #d4237a;
 }
